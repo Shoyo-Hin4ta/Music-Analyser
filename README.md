@@ -85,8 +85,3 @@ Clicking on songs reveals:
 
 ### 6. Conclusion (1 minute)
 This visualization demonstrates how musical elements combine to create distinct genres and styles, providing insights into music production and classification.
-
-
-
-## Contact
-Name - Rohan Sai Buddhi
